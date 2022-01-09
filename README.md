@@ -19,7 +19,9 @@ Basic web application to help users locate merchants that accepts CDC-Vouchers n
 ### Tools used:
 
 Onemapsg API - Geocoding
+
 Folium - mapping
+
 Dash and Heroku - Deployment
 
 ### Future Work:
