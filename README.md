@@ -6,6 +6,8 @@ Basic web application to help users locate merchants that accepts CDC-Vouchers n
 
 ### Data source:
 
+[Mrt station list and geocode](https://data.world/hxchua/train-stations-in-singapore)
+
 [Central Singapore CDC Posting]( https://www.facebook.com/7655563191/posts/10158900474728192/?d=n)
 
 [North East (NE) CDC Posting]( https://www.facebook.com/100064570844153/posts/278204557675237/?d=n)
